@@ -5,7 +5,7 @@
 		docker run hello-world
 
 <image src = "/images/Снимок экрана от 2024-04-20 21-02-07.png">
-<image src = "/images/Снимок экрана от 2024-04-20 21-09-49.png">
+
 
 
 
@@ -34,8 +34,8 @@
 		docker-compose —version
 
 
+<image src = "/images/Снимок экрана от 2024-04-20 21-09-49.png">
 
-<image src = "/images/Снимок экрана от 2024-04-20 21-18-08.png">
 
 
 
@@ -60,7 +60,7 @@
 
 
 
-
+<image src = "/images/Снимок экрана от 2024-04-20 21-18-08.png">
 
 
 
@@ -70,7 +70,7 @@
 
 <image src = "/images/Снимок экрана от 2024-04-20 21-19-57.png">
 
-<image src = "/images/Снимок экрана от 2024-04-20 21-25-09.png">
+
 
 	Создаю 3 Dockerfile    файла   для каждой из программ:
 
@@ -78,7 +78,7 @@
 ~/docker_linux / Dockerfile-date
 ~/docker_linux / Dockerfile-greeting
 
-
+<image src = "/images/Снимок экрана от 2024-04-20 21-25-09.png">
 
 <image src = "/images/Снимок экрана от 2024-04-20 21-26-00.png">
 
