@@ -4,7 +4,7 @@
 
 	docker run hello-world
 
-[https://github.com/Parcius/docker_test/blob/main/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202024-04-20%2021-02-07.png]
+[images/Снимок экрана от 2024-04-20 21-02-07.png]
 
 Создал группу docker и добавил в нее пользователя, поэтому docker запускается без sudo
 
