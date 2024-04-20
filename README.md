@@ -4,7 +4,7 @@
 
 	docker run hello-world
 
-<imagesrc = "/images/Снимок экрана от 2024-04-20 21-02-07.png">
+<image src = "/images/Снимок экрана от 2024-04-20 21-02-07.png">
 
 Создал группу docker и добавил в нее пользователя, поэтому docker запускается без sudo
 
