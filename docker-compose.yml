@@ -1,0 +1,14 @@
+version: "3"
+services:
+  date-service:
+    build:
+      context: .
+      dockerfile: Dockerfile-date 
+  time-service:
+    build:
+      context: .
+      dockerfile: Dockerfile-time 
+  greeting-service:
+    build:
+      context: .
+      dockerfile: Dockerfile-greeting 
